@@ -17,6 +17,9 @@
         cta2:"تعرف على المزيد",
         pills:["جلسات حضورية في قسنطينة","جلسات أونلاين","مواعيد يدوية (طلب وتفضيلات)"]
       },
+      
+      notice: "تنبيه: هذا الموقع ليس لخدمات الطوارئ. في حالات الخطر الفوري، اتصل بخدمات الطوارئ المحلية."
+      
       sections:{
         howTitle:"نهج المرافقة النفسية",
         howSub:"نستخدم فهماً عميقاً للعلاقات والخبرة النفسية، مع أدوات عملية تساعدك على التغيير خطوة بخطوة.",
@@ -129,6 +132,9 @@
         cta2:"En savoir plus",
         pills:["Séances à Constantine","Séances en ligne","Prise de rendez-vous"]
       },
+  
+      notice: "Avertissement : ce site ne fournit pas de services d’urgence. En cas de danger immédiat, veuillez contacter les services d’urgence locaux.",
+  
       sections:{
         howTitle:"Ma démarche thérapeutique",
         howSub:"Une articulation entre compréhension profonde et outils concrets, pour avancer pas à pas.",
@@ -241,6 +247,9 @@
         cta2:"Learn more",
         pills:["In-person in Constantine","Online sessions","Booking requests"]
       },
+
+      notice: "Notice: this website does not provide emergency services. If you are in immediate danger, please contact local emergency services.",
+      
       sections:{
         howTitle:"How I Support You",
         howSub:"Deep understanding paired with practical tools, so progress is steady and realistic.",
