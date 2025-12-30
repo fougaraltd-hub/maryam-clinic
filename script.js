@@ -10,12 +10,12 @@
       nav: {home:"الرئيسية", about:"عن المعالجة", approach:"المنهج العلاجي", services:"الخدمات", book:"الكتاب", blog:"المدونة", activities:"الأنشطة", booking:"طلب موعد", contact:"اتصل"},
       hero: {
         eyebrow:"قسنطينة، الجزائر • حضوري + أونلاين",
-        title:"مساحة آمنة للفهم والتغيير",
+        title:"مساحة آمنة للإدراك والتغيير",
         subtitle:"أخصائية ومعالجة نفسية | كاتبة | باحثة | مُكوِّنة",
-        desc:"مقاربة تكاملية تجمع بين الفهم الدينامي-النفسي، وأدوات العلاج المعرفي السلوكي (CBT)، وتدخلات مستنيرة بتقنية EMDR وتقنيات الاسترخاء—وفق احتياجك وإيقاعك.",
+        desc:"مقاربة تكاملية تجمع بين الفهم النفسي العميق، وأدوات العلاج المعرفي السلوكي (CBT)، وتدخلات مستنيرة بتقنية EMDR وتقنيات الاسترخاء—وفق احتياجك وإيقاعك.",
         cta1:"طلب موعد",
         cta2:"تعرف على المزيد",
-        pills:["جلسات حضورية في قسنطينة","جلسات أونلاين","مواعيد يدوية (طلب وتفضيلات)"]
+        pills:["جلسات حضورية في قسنطينة","جلسات أونلاين","تنسيق المواعيد حسب الطلب"]
       },
       
       notice: "تنبيه: هذا الموقع ليس لخدمات الطوارئ. في حالات الخطر الفوري، اتصل بخدمات الطوارئ المحلية.",
@@ -125,7 +125,7 @@
       nav: {home:"Accueil", about:"À propos", approach:"Approche", services:"Services", book:"Livre", blog:"Blog", activities:"Activités", booking:"Rendez-vous", contact:"Contact"},
       hero: {
         eyebrow:"Constantine, Algérie • Présentiel + En ligne",
-        title:"Un espace sûr pour comprendre et avancer",
+        title:"Un espace sûr pour se libérer et se reconstruire",
         subtitle:"Meriem Messaï-Ahmed • Psychothérapeute | Autrice | Chercheuse | Formatrice",
         desc:"Approche intégrative associant compréhension psychodynamique, outils TCC et interventions informées par l’EMDR, ainsi que des techniques de relaxation—adaptées à votre rythme et à vos besoins.",
         cta1:"Demander un rendez-vous",
@@ -133,7 +133,7 @@
         pills:["Séances à Constantine","Séances en ligne","Prise de rendez-vous"]
       },
   
-      notice: "Avertissement : ce site ne fournit pas de services d’urgence. En cas de danger immédiat, veuillez contacter les services d’urgence locaux.",
+      notice: "Information importante : ce site ne fournit pas de services d’urgence. En cas de danger immédiat, veuillez contacter les services d’urgence locaux.",
   
       sections:{
         howTitle:"Ma démarche thérapeutique",
@@ -154,7 +154,7 @@
         bookingSub:"Ce formulaire sert uniquement à la planification. Merci d’éviter d’y partager des informations sensibles.",
         contactTitle:"Contact",
         contactSub:"Constantine, Algérie • Présentiel + En ligne",
-        legalTitle:"Confidentialité & avertissement"
+        legalTitle:"Confidentialité & mentions importantes"
       },
       cards:{
         psychodynamic:{t:"Lecture psychodynamique", p:"Comprendre les schémas relationnels, l’histoire et ce qui se répète—sans jugement ni précipitation."},
@@ -251,7 +251,7 @@
       notice: "Notice: this website does not provide emergency services. If you are in immediate danger, please contact local emergency services.",
       
       sections:{
-        howTitle:"How I Support You",
+        howTitle:"How I support you",
         howSub:"Deep understanding paired with practical tools, so progress is steady and realistic.",
         aboutTitle:"About the therapist",
         aboutSub:"Professional profile adapted for a clinic website, based on the book cover description.",
@@ -336,7 +336,7 @@
           contact:["Phone","WhatsApp","Email"]
         },
         submit:"Send request",
-        success:"Your request has been received. We will respond within 24–48 working hours. (Please do not send urgent information via this form.)"
+        success:"Your request has been received. We aim to respond within 1–2 working days. (Please do not send urgent information via this form.)"
       },
       contact:{
         clinic:"Clinic: Constantine, Algeria",
