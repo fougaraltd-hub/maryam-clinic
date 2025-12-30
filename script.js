@@ -240,7 +240,7 @@
       nav: {home:"Home", about:"About", approach:"Approach", services:"Services", book:"Book", blog:"Blog", activities:"Activities", booking:"Booking", contact:"Contact"},
       hero: {
         eyebrow:"Constantine, Algeria • In-person + Online",
-        title:"A safe space to understand and move forward",
+        title:"A safe space to make sense of what you are experiencing and find your way forward",
         subtitle:"Mariam Messai-Ahmed • Psychotherapist | Writer | Researcher | Trainer",
         desc:"An integrative approach combining psychodynamic understanding, practical CBT tools, EMDR-informed interventions, and relaxation techniques—tailored to your pace and needs.",
         cta1:"Request an appointment",
