@@ -11,7 +11,7 @@
       hero: {
         eyebrow:"قسنطينة، الجزائر • حضوري + أونلاين",
         title:"مساحة آمنة للفهم والتغيير",
-        subtitle:"مريم مسعي-أحمد • أخصائية ومعالجة نفسية | كاتبة | باحثة | مُكوِّنة",
+        subtitle:"أخصائية ومعالجة نفسية | كاتبة | باحثة | مُكوِّنة",
         desc:"مقاربة تكاملية تجمع بين الفهم الدينامي-النفسي، وأدوات العلاج المعرفي السلوكي (CBT)، وتدخلات مستنيرة بتقنية EMDR وتقنيات الاسترخاء—وفق احتياجك وإيقاعك.",
         cta1:"طلب موعد",
         cta2:"تعرف على المزيد",
@@ -127,10 +127,10 @@
         desc:"Approche intégrative associant compréhension psychodynamique, outils TCC et interventions informées par l’EMDR, ainsi que des techniques de relaxation—adaptées à votre rythme et à vos besoins.",
         cta1:"Demander un rendez-vous",
         cta2:"En savoir plus",
-        pills:["Séances à Constantine","Séances en ligne","Prise de rendez-vous manuelle"]
+        pills:["Séances à Constantine","Séances en ligne","Prise de rendez-vous"]
       },
       sections:{
-        howTitle:"Comment je travaille",
+        howTitle:"Ma démarche thérapeutique",
         howSub:"Une articulation entre compréhension profonde et outils concrets, pour avancer pas à pas.",
         aboutTitle:"À propos de la thérapeute",
         aboutSub:"Présentation professionnelle adaptée au site, fidèle aux éléments de la couverture.",
@@ -144,7 +144,7 @@
         blogSub:"Articles psycho-éducatifs, accessibles et rigoureux.",
         activitiesTitle:"Activités",
         activitiesSub:"Séminaires, conférences, ateliers et formations—passés et à venir.",
-        bookingTitle:"Demande de rendez-vous (manuel)",
+        bookingTitle:"Demande de rendez-vous",
         bookingSub:"Ce formulaire sert uniquement à la planification. Merci d’éviter d’y partager des informations sensibles.",
         contactTitle:"Contact",
         contactSub:"Constantine, Algérie • Présentiel + En ligne",
@@ -235,14 +235,14 @@
       hero: {
         eyebrow:"Constantine, Algeria • In-person + Online",
         title:"A safe space to understand and move forward",
-        subtitle:"Mariam Msai-Ahmed • Psychotherapist | Writer | Researcher | Trainer",
+        subtitle:"Mariam Messai-Ahmed • Psychotherapist | Writer | Researcher | Trainer",
         desc:"An integrative approach combining psychodynamic understanding, practical CBT tools, EMDR-informed interventions, and relaxation techniques—tailored to your pace and needs.",
         cta1:"Request an appointment",
         cta2:"Learn more",
-        pills:["In-person in Constantine","Online sessions","Manual booking requests"]
+        pills:["In-person in Constantine","Online sessions","Booking requests"]
       },
       sections:{
-        howTitle:"How I work",
+        howTitle:"How I Support You",
         howSub:"Deep understanding paired with practical tools, so progress is steady and realistic.",
         aboutTitle:"About the therapist",
         aboutSub:"Professional profile adapted for a clinic website, based on the book cover description.",
@@ -256,7 +256,7 @@
         blogSub:"Psycho-educational articles, written in accessible language.",
         activitiesTitle:"Activities",
         activitiesSub:"Seminars, workshops, conferences and trainings—past and upcoming.",
-        bookingTitle:"Booking request (manual)",
+        bookingTitle:"Booking request",
         bookingSub:"This form is for scheduling only. Please avoid sharing sensitive clinical details here.",
         contactTitle:"Contact",
         contactSub:"Constantine, Algeria • In-person + Online",
@@ -268,7 +268,7 @@
         emdr:{t:"EMDR-informed interventions", p:"Where appropriate, EMDR-informed work for distressing memories and trauma impacts, within a safe frame."}
       },
       about:{
-        h:"Mariam Msai-Ahmed",
+        h:"Mariam Messai-Ahmed",
         role:"Psychotherapist",
         body1:"Mariam Msai-Ahmed is a psychotherapist with a Bachelor’s and Master’s degree in Clinical Psychology. She is dedicated to mental health and is pursuing further academic work in Health Psychology, with a strong belief in connecting deep clinical understanding with integrative therapeutic intervention.",
         body2:"She is trained in CBT and contemporary therapeutic techniques, including EMDR-informed work and relaxation approaches.",
