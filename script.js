@@ -139,7 +139,6 @@
         howTitle:"Ma démarche thérapeutique",
         howSub:"Une articulation entre compréhension profonde et outils concrets, pour avancer pas à pas.",
         aboutTitle:"À propos de la thérapeute",
-        aboutSub:"Présentation professionnelle adaptée au site, fidèle aux éléments de la couverture.",
         approachTitle:"Approche intégrative",
         approachSub:"Psychodynamique + TCC + interventions informées par l’EMDR, dans un cadre clair et sécurisé.",
         servicesTitle:"Services",
@@ -163,7 +162,6 @@
       },
       about:{
         h:"Meriem Messaï-Ahmed",
-        role:"Psychothérapeute",
         body1:"Psychothérapeute, titulaire d’une licence et d’un master en psychologie clinique. Elle s’intéresse à la santé mentale et poursuit son parcours académique en psychologie de la santé, convaincue de l’importance de relier compréhension clinique et intervention intégrative.",
         body2:"Formée aux TCC (CBT) et à des techniques contemporaines, dont l’EMDR, ainsi que des techniques de relaxation.",
         body3:"Formatrice et enseignante, elle a encadré et formé de nombreux étudiants et praticiens de terrain, tout en développant une expérience clinique solide.",
@@ -254,7 +252,6 @@
         howTitle:"How I support you",
         howSub:"Deep understanding paired with practical tools, so progress is steady and realistic.",
         aboutTitle:"About the therapist",
-        aboutSub:"Professional profile adapted for a clinic website, based on the book cover description.",
         approachTitle:"Integrative approach",
         approachSub:"Psychodynamic + CBT + EMDR-informed work, within a clear and safe therapeutic frame.",
         servicesTitle:"Services",
@@ -278,8 +275,7 @@
       },
       about:{
         h:"Mariam Messai-Ahmed",
-        role:"Psychotherapist",
-        body1:"Mariam Messai-Ahmed is a psychotherapist with a Bachelor’s and Master’s degree in Clinical Psychology. She is dedicated to mental health and is pursuing further academic work in Health Psychology, with a strong belief in connecting deep clinical understanding with integrative therapeutic intervention.",
+        body1:"A psychotherapist with a Bachelor’s and Master’s degree in Clinical Psychology. She is dedicated to mental health and is pursuing further academic work in Health Psychology, with a strong belief in connecting deep clinical understanding with integrative therapeutic intervention.",
         body2:"She is trained in CBT and contemporary therapeutic techniques, including EMDR-informed work and relaxation approaches.",
         body3:"As an educator and trainer, she has supervised and trained many students and field practitioners across multiple areas of psychology, supported by several years of applied clinical experience.",
         body4:"She has contributed to initiatives and associations supporting children with special needs, and writes psycho-educational articles for national media to make psychological knowledge accessible and meaningful.",
