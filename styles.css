@@ -1,24 +1,23 @@
 :root{
-  --bg:#0b0f14;
-  --card:#111826;
-  --text:#e8eef6;
-  --muted:#b7c3d6;
-  --line:rgba(255,255,255,.08);
-  --brand:#7dd3fc;
-  --brand2:#a78bfa;
-  --ok:#86efac;
-  --warn:#fda4af;
-  --shadow: 0 18px 45px rgba(0,0,0,.35);
+  --bg:#f7fafc;
+  --card:#ffffff;
+  --text:#0b1220;
+  --muted:#4b5563;
+  --line:rgba(15,23,42,.10);
+  --brand:#0ea5e9;
+  --brand2:#7c3aed;
+  --ok:#16a34a;
+  --warn:#dc2626;
+  --shadow: 0 18px 45px rgba(2,6,23,.10);
   --radius:18px;
   --max:1120px;
 }
+
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{
   margin:0;
-  background: radial-gradient(1200px 800px at 20% 10%, rgba(167,139,250,.12), transparent 60%),
-              radial-gradient(1200px 800px at 80% 30%, rgba(125,211,252,.10), transparent 60%),
-              var(--bg);
+  background: var(--bg);
   color:var(--text);
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
   line-height:1.65;
@@ -31,10 +30,13 @@ a{color:inherit}
   background: rgba(11,15,20,.66);
   border-bottom:1px solid var(--line);
 }
-.topbar-inner{
-  display:flex; align-items:center; justify-content:space-between;
-  padding:12px 0;
-  gap:14px;
+.topbar{
+  position:sticky;
+  top:0;
+  z-index:50;
+  background: rgba(255,255,255,.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
 }
 .brand{
   display:flex; align-items:center; gap:12px; min-width: 230px;
@@ -52,8 +54,17 @@ a{color:inherit}
   border-radius:10px;
   border:1px solid rgba(255,255,255,.18);
 }
-.brand h2{margin:0; font-size:14px; letter-spacing:.2px}
-.brand p{margin:0; color:var(--muted); font-size:12px}
+.brand h2{
+  margin:0;
+  font-size:14px;
+  color: var(--text);
+}
+
+.brand p{
+  margin:0;
+  font-size:12px;
+  color: var(--muted);
+}
 nav ul{
   list-style:none; margin:0; padding:0;
   display:flex; gap:14px; align-items:center;
@@ -61,17 +72,13 @@ nav ul{
   justify-content:center;
 }
 nav a{
-  text-decoration:none;
-  font-size:13px;
-  color:var(--muted);
-  padding:8px 10px;
-  border-radius:12px;
-  border:1px solid transparent;
+  color: var(--text);
+  font-weight: 500;
 }
+
 nav a:hover{
-  color:var(--text);
-  border-color: var(--line);
-  background: rgba(255,255,255,.03);
+  color: var(--brand);
+  background: rgba(14,165,233,.08);
 }
 .lang{
   display:flex; gap:8px; align-items:center;
