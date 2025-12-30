@@ -279,7 +279,7 @@
       about:{
         h:"Mariam Messai-Ahmed",
         role:"Psychotherapist",
-        body1:"Mariam Msai-Ahmed is a psychotherapist with a Bachelor’s and Master’s degree in Clinical Psychology. She is dedicated to mental health and is pursuing further academic work in Health Psychology, with a strong belief in connecting deep clinical understanding with integrative therapeutic intervention.",
+        body1:"Mariam Messai-Ahmed is a psychotherapist with a Bachelor’s and Master’s degree in Clinical Psychology. She is dedicated to mental health and is pursuing further academic work in Health Psychology, with a strong belief in connecting deep clinical understanding with integrative therapeutic intervention.",
         body2:"She is trained in CBT and contemporary therapeutic techniques, including EMDR-informed work and relaxation approaches.",
         body3:"As an educator and trainer, she has supervised and trained many students and field practitioners across multiple areas of psychology, supported by several years of applied clinical experience.",
         body4:"She has contributed to initiatives and associations supporting children with special needs, and writes psycho-educational articles for national media to make psychological knowledge accessible and meaningful.",
@@ -524,7 +524,7 @@
       ? "مريم مسعي-أحمد | عيادة نفسية في قسنطينة"
       : (lang === "fr")
         ? "Meriem Messaï-Ahmed | Cabinet à Constantine"
-        : "Mariam Msai-Ahmed | Therapy in Constantine & Online";
+        : "Mariam Messai-Ahmed | Therapy in Constantine & Online";
   }
 
   function setActiveButton(lang){
